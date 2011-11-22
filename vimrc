@@ -22,3 +22,7 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'msanders/snipmate.vim'
 Bundle 'godlygeek/tabular'
 Bundle 'ervandew/supertab'
+
+set list
+set listchars=tab:»·,trail:·
+highlight SpecialKey guifg=black ctermfg=darkgrey
