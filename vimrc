@@ -22,14 +22,3 @@ Bundle 'scrooloose/nerdcommenter'
 Bundle 'msanders/snipmate.vim'
 Bundle 'godlygeek/tabular'
 Bundle 'ervandew/supertab'
-
-Bundle 'Raimondi/delimitMate.git'
-let delimitMate_visual_leader = ","
-
-Bundle 'tpope/vim-fugitive'
-set statusline+=%{fugitive#statusline()}
-
-Bundle 'scrooloose/syntastic'
-set statusline+=%#warningmsg#
-set statusline+=%{SyntasticStatuslineFlag()}
-set statusline+=%*

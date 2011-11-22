@@ -24,7 +24,6 @@ set titlestring=%f%(\ [%M]%) 	" Show file name at the title
 set numberwidth=1
 set report=2
 set laststatus=2 		
-set statusline=%f
 set showcmd
 set showmode
 set winminheight=0
