@@ -4,7 +4,7 @@
 let softab    = "on"
 let tabsize   = 4
 let arrowkeys = "off" 			" Enable this if you like to use the arrow keys to move. I highly discourage you.
-let gui_font  = "Monaco:h12"
+let gui_font  = ""
 let mapleader = ","
 
 source ~/.vimrc-defaults
